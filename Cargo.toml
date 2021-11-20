@@ -4,4 +4,5 @@ members = [
     "unwrap",
     "result",
     "vector",
+    "struct_enum",
 ]
