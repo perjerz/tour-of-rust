@@ -3,4 +3,5 @@
 members = [
     "unwrap",
     "result",
+    "vector",
 ]
