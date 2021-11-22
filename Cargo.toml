@@ -6,4 +6,6 @@ members = [
     "vector",
     "struct_enum",
     "borrow",
+    "lifetime",
+    "string_from_file",
 ]
