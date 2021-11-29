@@ -8,4 +8,5 @@ members = [
     "borrow",
     "lifetime",
     "string_from_file",
+    "traits",
 ]
