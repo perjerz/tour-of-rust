@@ -9,4 +9,5 @@ members = [
     "lifetime",
     "string_from_file",
     "traits",
+    "oop",
 ]
